@@ -7,10 +7,10 @@ Referral Program
  The purpose of the referral program is to incentivize people to bring in more people. It compares to a Multi-Level-Marketing (MLM) scheme with the difference of having only **1 level** where referred individuals can opt-out by upgrading their account to a Life-Time Member (LTM). Every life time member, can get a cut of the fees based on child accounts linked to ours via referral.
 
 
-BitShares Accounts
+LocalCoin Accounts
 ----------------------
 
-BitShares has several different kinds of accounts: 
+LocalCoin has several different kinds of accounts: 
  
  * Basic Account, and
  * Lifetime Member.
@@ -47,7 +47,7 @@ What to do?
 
       https://<url>/?r=<your-account>
 
- with ``<your-account>`` being the name of your BitShares Lite-Time Member account.
+ with ``<your-account>`` being the name of your LocalCoin Lite-Time Member account.
 
  .. note:: If you want link to pages with in the wallet, e.g. a particular decentralized market, you need to have the ``?r=`` parameter **before** the ``#``, e.g.::
 
@@ -61,7 +61,7 @@ What to do?
 
 Terms & Conditions
 ----------------------
- Please see the `Referral Program - Terms & Conditions <https://bitshares.org/referral-program-terms-and-conditions/>`_ for more details.
+ Please see the `Referral Program - Terms & Conditions <https://localcoin.org/referral-program-terms-and-conditions/>`_ for more details.
 
 
 Claiming Referral Bonus and Cashback

@@ -42,7 +42,7 @@ How to Create a backup (.bin) file
 #. In [**Settings**], select [**Backup**]. 
 #. Make sure the backup type is *Create local wallet backup*
 #. Click [**CREATE BACKUP NOW**]
-#. Check your backup file name (e.g. bts_somrthing_20180420.bin)
+#. Check your backup file name (e.g. llc_somrthing_20180420.bin)
 #. Click [**DOWNLOAD**]
 
 
@@ -50,12 +50,12 @@ How to Create a backup (.bin) file
 
 
 .. image:: ../images/backup-1.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 550px
         :align: center	
 
 .. image:: ../images/backup-2.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 550px
         :align: center	
 	
@@ -84,12 +84,12 @@ How to Create a Brainkey backup (Advanced User Only)
 		
 		
 .. image:: ../images/backup-brainkey.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center	
 
 .. image:: ../images/backup-brainkey2.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center	
 
@@ -114,7 +114,7 @@ Restore / Import Options
 |                                             | be saved in the bin file. If this happens, you cannot rely    |
 |                                             | on the brainkey for backup after that.                        |
 +---------------------------------------------+---------------------------------------------------------------+
-| Import a BTS 0.9.3c key export file (.json) |                                                               |
+| Import a LLC 0.9.3c key export file (.json) |                                                               |
 +---------------------------------------------+---------------------------------------------------------------+
 | Restore using a local wallet brainkey       | use a password and a Brain key                                |
 +---------------------------------------------+---------------------------------------------------------------+
@@ -132,12 +132,12 @@ How to Restore from a backup (.bin) file
 4. (#2) Click [**Browse...**] to find a backup file. 
 		
 .. image:: ../images/restore1.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center	
 
 .. image:: ../images/restore3.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center			
 		
@@ -147,7 +147,7 @@ How to Restore from a backup (.bin) file
 		
 		
 .. image:: ../images/restore4.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center			
 				
@@ -160,12 +160,12 @@ How to Restore from a backup (.bin) file
 		
 		
 .. image:: ../images/restore5.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center	
 
 .. image:: ../images/restore6.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center			
 		
@@ -177,7 +177,7 @@ How to Check Active Local Wallet backup file name
 - [**Settings**] - [**Local Wallet**] - Active Local Wallet
 		
 .. image:: ../images/restore7.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center		
 		
@@ -194,19 +194,19 @@ How to Recover Account with Brain key
 5. (#3) Type in a password (Confirm)
 
 .. image:: ../images/brainkey1.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center	
 		
 6. (#4) Type in new *Local Wallet Name* if needed. (e.g. "default-test-brainkey-restore")		
 
 .. image:: ../images/brainkey2.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center	
 
 .. image:: ../images/brainkey3.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center	
 
@@ -216,7 +216,7 @@ How to Recover Account with Brain key
 
 
 .. image:: ../images/brainkey4.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center	
 		
@@ -225,7 +225,7 @@ How to Recover Account with Brain key
 10. (#8) Let's check *ACTIVE LOCAL WALLET* name (Go to [Settings] - [Local Wallet])
 
 .. image:: ../images/brainkey5.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center	
 

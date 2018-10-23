@@ -15,8 +15,8 @@ Fund your Account
 Two Options to Fund your Account
 -----------------------------------
  
-- **Send (Transfer)**: This is for between BitShares account holders to send funds. On the BitShares Blockchain , people never need to deal with *addresses* or *public keys*. BitShares account holders can use their *account names* for communication. 
-- **Deposits**: BitShares account holders can use one of our partners to move over existing funds into your BitShares account.
+- **Send (Transfer)**: This is for between LocalCoin account holders to send funds. On the LocalCoin Blockchain , people never need to deal with *addresses* or *public keys*. LocalCoin account holders can use their *account names* for communication. 
+- **Deposits**: LocalCoin account holders can use one of our partners to move over existing funds into your LocalCoin account.
 
 
 Send (Transfer)
@@ -32,9 +32,9 @@ Send Forms items and descriptions
 +---+----------------------------------+--------------------------------------------------------------------------------------+
 |   |    Item                          |       Description                                                                    |
 +===+==================================+======================================================================================+
-| 1 | Sender's BitShares Account name  | This would be your BitShares Account Name (e.g. *bitshares-users*)                   |
+| 1 | Sender's LocalCoin Account name  | This would be your LocalCoin Account Name (e.g. *localcoin-users*)                   |
 +---+----------------------------------+--------------------------------------------------------------------------------------+
-| 2 | TO                               | Another BitShares Account name whom you want to send funds                           |
+| 2 | TO                               | Another LocalCoin Account name whom you want to send funds                           |
 +---+----------------------------------+--------------------------------------------------------------------------------------+
 | 3 | QUANTITY                         | - This is a dropdown list and will show all assets you have in the wallet account.   |
 +   +                                  +--------------------------------------------------------------------------------------+
@@ -72,7 +72,7 @@ A transfer may contain a memo with arbitrary text.
 .. note:: The ``memo`` is **encrypted** by default can only be decrypted by the participants of the transfer! The transfer fee depends on the length of the memo!
    
 .. image:: ../images/Send-1.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center	
 
@@ -81,7 +81,7 @@ A transfer may contain a memo with arbitrary text.
 **Form: Send - Transfer details (legacy form)**
 
 .. image:: ../images/send-transfer2.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center	
 		
@@ -93,9 +93,9 @@ Deposit
 
 Currently, there are two forms to deposit funds. One is **Deposit** and another one is **Deposit (Beta)**. Both locate on the side menu. 
  
-BitShares has partners to provide Transfer (i.g. Gateway/Bridge) services which you can choose from. Each Transfer service has own instruction and available coins to handle. When you select a Transfer Service, please follow the instruction. In the next section, we will show you several examples and patterns to compare the deposit forms.
+LocalCoin has partners to provide Transfer (i.g. Gateway/Bridge) services which you can choose from. Each Transfer service has own instruction and available coins to handle. When you select a Transfer Service, please follow the instruction. In the next section, we will show you several examples and patterns to compare the deposit forms.
 
-.. note:: On the BitShares blockchain, people never need to deal with *addresses* or *public keys* but can instead use account names. Your account name becomes the *email address* for your funds.
+.. note:: On the LocalCoin blockchain, people never need to deal with *addresses* or *public keys* but can instead use account names. Your account name becomes the *email address* for your funds.
 
 
 Deposit Forms Items and Descriptions
@@ -116,7 +116,7 @@ Deposit Forms Items and Descriptions
 +---+-------------------------+--------------------------------------------------------------------------------------+
 | 6 | Memo                    | Your Memo information to transfer funds. (*Not all coins' transfers use `Memo`*)     |
 +---+-------------------------+--------------------------------------------------------------------------------------+
-| 7 | BitShares Account Name  | This would be your BitShares Account name                                            |
+| 7 | LocalCoin Account Name  | This would be your LocalCoin Account name                                            |
 +---+-------------------------+--------------------------------------------------------------------------------------+
 
   If you cannot select an Asset on the Deposit(Beta) form, try to login to your wallet first. 
@@ -129,12 +129,12 @@ Examples
 You use `ADDRESS` and `MEMO` to deposit funds. The below images show a Deposit and a Deposit(Beta) forms.
 
 .. image:: ../images/deposit-steem-legacy.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center	
 		
 .. image:: ../images/deposit-steem-2.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 350px
         :align: center	
 		
@@ -144,21 +144,21 @@ You use `ADDRESS` and `MEMO` to deposit funds. The below images show a Deposit a
 You use `ADDRESS` to deposit funds. The below images show a Deposit and a Deposit(Beta) forms.
 
 .. image:: ../images/deposit-eos-legacy.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 650px
         :align: center	
 		
 .. image:: ../images/deposit-eos-2.png
-        :alt: bitshares 
+        :alt: localcoin 
         :width: 300px
         :align: center	
 		
-**(Example 3) Deposit BTS**
+**(Example 3) Deposit LLC**
 
-You use BitShares Account Name as `ADDRESS` to deposit funds. The below image shows a Deposit(Beta) form.
+You use LocalCoin Account Name as `ADDRESS` to deposit funds. The below image shows a Deposit(Beta) form.
 
-.. image:: ../images/deposit-bts.png
-        :alt: bitshares 
+.. image:: ../images/deposit-llc.png
+        :alt: localcoin 
         :width: 300px
         :align: center
 		

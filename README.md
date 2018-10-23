@@ -1,16 +1,16 @@
-# BitShares Blockchain Documentation
+# LocalCoin Blockchain Documentation
 
-Welcome to the documentation portal for the BitShares Blockchain. The content on this page is managed by the BitShares community and is constantly improved.
+Welcome to the documentation portal for the LocalCoin Blockchain. The content on this page is managed by the LocalCoin community and is constantly improved.
 
-[BitShares  Documentation website](http://how.bitshares.works/en/master/)
+[LocalCoin  Documentation website](http://how.localcoin.works/en/master/)
 
 -------------
 
-[BitShares Developers Documentation Portal website](http://dev.bitshares.works/en/master/)
+[LocalCoin Developers Documentation Portal website](http://dev.localcoin.works/en/master/)
 
 
 ### Releases
-- [BitShares-Core Release](https://github.com/bitshares/bitshares-core/releases)
-- [BitShares-UI Release](https://github.com/bitshares/bitshares-ui/releases)
+- [LocalCoin-Core Release](https://github.com/localcoin/localcoin-core/releases)
+- [LocalCoin-UI Release](https://github.com/localcoin/localcoin-ui/releases)
 
 ***

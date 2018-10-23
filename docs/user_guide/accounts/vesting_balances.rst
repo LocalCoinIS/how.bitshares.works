@@ -2,7 +2,7 @@
 Vesting Balances 
 ===================
 
-In BitShares 2.0, some balances are vesting over time. This feature has been introduced initially in BitShares 1 when merging several blockchain businesses into one blockchain.
+In LocalCoin 2.0, some balances are vesting over time. This feature has been introduced initially in LocalCoin 1 when merging several blockchain businesses into one blockchain.
 
 Now, we make even more use of this functionality in such that an accounts income in form of
 
@@ -30,7 +30,7 @@ Strategies
 Claiming A Vesting Balance
 -----------------------------
 
- You can claim vesting balances by using BitShares User interface.
+ You can claim vesting balances by using LocalCoin User interface.
 
  Open the side dropdown menu and select **[Vesting Balances]**
 

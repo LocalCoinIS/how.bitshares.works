@@ -58,8 +58,8 @@ master_doc = 'index'
 # General information about the project.
 #project = u'Read the Docs Sphinx Theme'
 #copyright = u'Dave Snider, Read the Docs, Inc. & contributors'
-project = u'BitShares Documentation'
-copyright = u'2018, BitShares Blockchain Foundation'
+project = u'LocalCoin Documentation'
+copyright = u'2018, LocalCoin Blockchain Foundation'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -141,15 +141,15 @@ html_theme_path = ['_themes']
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
 #html_title = None
-#html_title = "BitShares Blockchain Foundation"
+#html_title = "LocalCoin Blockchain Foundation"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = "BitShares Documentation" 
+html_short_title = "LocalCoin Documentation" 
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-# html_logo = "images/bitshares_logo.png"
-#html_logo = "images/bts_logo1.png"
+# html_logo = "images/localcoin_logo.png"
+#html_logo = "images/llc_logo1.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
