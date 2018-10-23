@@ -24,7 +24,7 @@ Gateways are basically equivalent to the standard exchange model where you depen
 
 An OPEN.BTC is thus in theory equivalent to the BTC you get on Poloniex, which could be prefixed POLO.BTC. In both cases you rely on the service provider, CCEDK for OPEN. assets and Poloniex for POLO. assets, to remain solvent in order to back the value of the assets they've issued. Because gateways only provide this one service which is normally only one part of running an exchange, one might even argue that they have an easier job of securing their holdings.
  
- (ref: https://wallet.localcoin.org/#/help/introduction/bridges_gateways)
+ (ref: https://wallet.localcoin.is/help/introduction/bridges_gateways)
  
 
  

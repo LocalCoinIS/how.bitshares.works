@@ -24,7 +24,7 @@ LocalCoin UI Wallet
 
 If you create an account at one of LocalCoin partners, the account name will be available among LocalCoin partners.  So, you will be able to use the LocalCoin account name to communicate (e.g., sending fund) with other LocalCoin account holders like sending an email. The advantage of using account name is you, and other people can identify the account holder.
 
-- `LocalCoin UI wallet <https://wallet.localcoin.org>`_
+- `LocalCoin UI wallet <https://wallet.localcoin.is>`_
 
 
 

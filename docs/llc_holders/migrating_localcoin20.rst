@@ -37,10 +37,10 @@ What is new in LocalCoin 2.0
 * **Additional Privatized BitAssets**:
   In contrast to Market Pegged Assets (also known as BitAssets) that have a price feed published by witnesses that have approval of LLC Holders, a *privatized* bitasset allows to create market pegged assets that have an individual set of price feed publishers that do not need LLC Holders' approval. Hence, everyone can create a privatized bitAsset to track an individual value, such as indices, or binary predictions.
 
-.. _dynamic account permissions: https://localcoin.org/technology/dynamic-account-permissions/
-.. _transferable named accounts: https://localcoin.org/technology/transferable-named-accounts/
-.. _referral program: https://localcoin.org/referral-program/
-.. _recurring and scheduled payments: https://localcoin.org/technology/recurring-and-scheduled-payments/
+.. _dynamic account permissions: https://localcoin.is/technology/dynamic-account-permissions/
+.. _transferable named accounts: https://localcoin.is/technology/transferable-named-accounts/
+.. _referral program: https://localcoin.is/referral-program/
+.. _recurring and scheduled payments: https://localcoin.is/technology/recurring-and-scheduled-payments/
 
 
 
@@ -75,9 +75,9 @@ What has changed since LocalCoin 0.9
 * **Delegates are now Witnesses and Payed Positions are now Budget Items**:
   Since we have separated the business part from the block producing part, we now call block producers (formerly known as *delegates*) witnesses, while the additional payed position for workers are called budget items.
 
-.. _industrial performance and scalability: https://localcoin.org/technology/industrial-performance-and-scalability/
-.. _bitAssets 2.0: https://localcoin.org/technology/price-stable-cryptocurrencies/
-.. _a referral program: https://localcoin.org/technology/recurring-and-scheduled-payments/
+.. _industrial performance and scalability: https://localcoin.is/technology/industrial-performance-and-scalability/
+.. _bitAssets 2.0: https://localcoin.is/technology/price-stable-cryptocurrencies/
+.. _a referral program: https://localcoin.is/technology/recurring-and-scheduled-payments/
 
 
 

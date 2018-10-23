@@ -52,7 +52,7 @@ Did you find out which type of wallet you want to have?
 
 - If you want to install **Light Wallet (LocalCoin UI)**, download `LocalCoin UI Releases <https://github.com/localcoin/localcoin-ui/releases>`_ file and install it to your machine. 
    - *This does not mean you will have a Local wallet.*
-- If you want to use **Web Wallet**, go to this link (https://wallet.localcoin.org).
+- If you want to use **Web Wallet**, go to this link (https://wallet.localcoin.is).
 
 -----
 

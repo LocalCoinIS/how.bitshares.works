@@ -8,7 +8,7 @@ The History of LocalCoin
 LocalCoin is a fork of Bitshares and The History of which as laid out by Stan Larimer
 =====================================================
 
-"Here are the first parts of a planned series of blog articles that will appear on the localcoin.org website as soon as I am sufficiently pleased with them. This series is intended to be a resource for newbies and a summary of all that has been accomplished in the past year. Think of this as the Official Year One Newsletter."
+"Here are the first parts of a planned series of blog articles that will appear on the localcoin.is website as soon as I am sufficiently pleased with them. This series is intended to be a resource for newbies and a summary of all that has been accomplished in the past year. Think of this as the Official Year One Newsletter."
 
 
 Part One
@@ -62,7 +62,7 @@ Of course, BitShares are something very different than shares in a government-cr
 
 Charles Evans explored this dual metaphor in this delightful blog article:
 
-A BitRose by Any Other Name. http://localcoin.org/a-bitrose-by-any-other-name/
+A BitRose by Any Other Name. http://localcoin.is/a-bitrose-by-any-other-name/
 
 We offered a bounty for an experienced coin designer to build the PTS protocoin for us. A developer known as FreeTrade answered the call. It took him about a month to clone it from the Bitcoin library. Then, while we were still evaluating his code, another independent entrepreneur known as Super3 downloaded the open-source from FreeTrade's library and started it running. On November 5, 2013 Super3 went down in history as the miner of the first protocoin block in crypto-equity history!
 

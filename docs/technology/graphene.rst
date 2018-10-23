@@ -57,5 +57,5 @@ The Graphene Technology has been applied to several blockchain already. LocalCoi
 
 `LocalCoin 2.0`_ is a Financial Smart Contracts platform that enables trading of digital assets and has market-pegged assets that track the value of their underlying asset (e.g. USD tracking the U.S. dollar).
 
-.. _LocalCoin 2.0: http://LocalCoin.org
+.. _LocalCoin 2.0: http://LocalCoin.is
 

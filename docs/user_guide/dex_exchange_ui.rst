@@ -12,7 +12,7 @@ Exchange and Explore
 Exchange 
 =========
 
-https://wallet.localcoin.org/#/market/USD_LLC
+https://wallet.localcoin.is/market/USD_LLC
 
 .. image:: ../images/dex-exchange1.png
         :alt: localcoin 
