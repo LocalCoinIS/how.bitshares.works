@@ -18,8 +18,8 @@ This page documents the `Graphene`_ technology built by `Cryptonomex`_. You can 
 Blockchain Specific Guides
 --------------------------------
 
-The Graphene Technology has been applied to several blockchain already. LocalCoin 2.0 has been the first application of Graphene technology and you will be able to find almost everything feature implemented in LocalCoin 2.0. Further blockchains will be added independently.
+The Graphene Technology has been applied to several blockchain already. LocalCoin has been the first application of Graphene technology and you will be able to find almost everything feature implemented in LocalCoin. Further blockchains will be added independently.
 
-`LocalCoin 2.0`_ is a Financial Smart Contracts platform that enables trading of digital assets and has market-pegged assets that track the value of their underlying asset (e.g. USD tracking the U.S. dollar).
+`LocalCoin`_ is a Financial Smart Contracts platform that enables trading of digital assets and has market-pegged assets that track the value of their underlying asset (e.g. USD tracking the U.S. dollar).
 
-.. _LocalCoin 2.0: http://LocalCoin.is
+.. _LocalCoin: http://LocalCoin.is

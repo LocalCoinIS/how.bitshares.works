@@ -5,7 +5,7 @@ What is LocalCoin?
 
 .. contents:: Table of Contents
 
-LocalCoin 2.0
+LocalCoin
 ==============
 
 LocalCoin is a technology supported by next generation entrepreneurs, investors, and developers with a common interest in finding free market solutions by leveraging the power of globally decentralized consensus and decision making. Consensus technology has the power to do for economics what the internet did for information. It can harness the combined power of all humanity to coordinate the discovery and aggregation of real-time knowledge, previously unobtainable. This knowledge can be used to more effectively

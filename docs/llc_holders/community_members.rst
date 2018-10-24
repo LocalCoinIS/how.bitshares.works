@@ -10,7 +10,7 @@ Community Memberships
 About LocalCoin Members  
 ============================== 
 
-LocalCoin 2.0 separates responsibilities and incentives activities that are beneficial to the network, thus acknowledging different skill sets and interested community members to have incentives to contribute in the most appropriate way.
+LocalCoin separates responsibilities and incentives activities that are beneficial to the network, thus acknowledging different skill sets and interested community members to have incentives to contribute in the most appropriate way.
 
 * Witnesses are paid for maintaining the back-bone of the network.
 * Committee members are unpaid volunteers that organize the community and propose changes to the network.

@@ -2,7 +2,7 @@
 Vesting Balances 
 ===================
 
-In LocalCoin 2.0, some balances are vesting over time. This feature has been introduced initially in LocalCoin 1 when merging several blockchain businesses into one blockchain.
+In LocalCoin, some balances are vesting over time. This feature has been introduced initially in LocalCoin 1 when merging several blockchain businesses into one blockchain.
 
 Now, we make even more use of this functionality in such that an accounts income in form of
 
