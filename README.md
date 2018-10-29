@@ -10,7 +10,7 @@ Welcome to the documentation portal for the LocalCoin Blockchain. The content on
 
 
 ### Releases
-- [LocalCoin-Core Release](https://github.com/localcoin/localcoin-core/releases)
-- [LocalCoin-UI Release](https://github.com/localcoin/localcoin-ui/releases)
+- [LocalCoin-Core Release](https://github.com/localcoinis/localcoin-core/releases)
+- [LocalCoin-UI Release](https://github.com/localcoinis/localcoin-ui/releases)
 
 ***

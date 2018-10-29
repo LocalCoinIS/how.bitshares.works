@@ -126,7 +126,7 @@ Sources and Discussions
 
 * https://localcointalk.org/index.php?topic=5164.msg67657#msg67657
 * https://localcointalk.org/index.php?topic=5205.0
-* https://github.com/LocalCoin/localcoin_toolkit/wiki/Delegated-Proof-of-Stake
+* https://github.com/localcoinis/localcoin_toolkit/wiki/Delegated-Proof-of-Stake
 * https://localcointalk.org/index.php?topic=4984.0
 * https://localcointalk.org/index.php?topic=4927.0
 * https://localcointalk.org/index.php?topic=4869.0

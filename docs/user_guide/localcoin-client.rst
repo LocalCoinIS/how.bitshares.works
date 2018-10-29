@@ -25,7 +25,7 @@ Download client files and install LocalCoin Wallet to your computer.
 **> Note: This download does not mean that you will have a Local wallet.**
 
 - `Download the Official Light Client <http://localcoin.is/download/>`_
-- `LocalCoin-UI – Latest Release <https://github.com/localcoin/localcoin-ui/releases>`_
+- `LocalCoin-UI – Latest Release <https://github.com/localcoinis/localcoin-ui/releases>`_
 
 **LocalCoin-UI**:
 This is a web application and runs in a browser. A connection is established to a trusted node in the network that serves as a gateway to the rest of the ecosystem.
@@ -158,7 +158,7 @@ Frequently asked Questions
 
   - Yes.
 
-  - Go to `How to change a password if using a Cloud Wallet <https://github.com/localcoin/localcoin-ui/wiki/Cloud-Wallet-Login-and-changing-password>`_ : from LocalCoin UI wiki
+  - Go to `How to change a password if using a Cloud Wallet <https://github.com/localcoinis/localcoin-ui/wiki/Cloud-Wallet-Login-and-changing-password>`_ : from LocalCoin UI wiki
 
 - **Can I change a Local wallet password?**
 
