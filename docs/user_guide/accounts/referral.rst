@@ -53,7 +53,7 @@ What to do?
 
  .. note:: If you want link to pages with in the wallet, e.g. a particular decentralized market, you need to have the ``?r=`` parameter **before** the ``#``, e.g.::
 
-        https://<url>/?r=<your-account>#/market/USD_BTC
+        https://<url>/?r=<your-account>/market/USD_BTC
 
 **Example**
 
