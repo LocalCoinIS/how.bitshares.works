@@ -1,6 +1,6 @@
 
 
-Referral Program 
+Referral Program
 =====================
 
 
@@ -10,8 +10,8 @@ Referral Program
 LocalCoin Accounts
 ----------------------
 
-LocalCoin has several different kinds of accounts: 
- 
+LocalCoin has several different kinds of accounts:
+
  * Basic Account, and
  * Lifetime Member.
 
@@ -36,7 +36,7 @@ The referral fees are controlled by the blockchain and are distributed like this
 
 What to do?
 -------------------
- If you want to participate in the referral program, you need to have a life-time member account, first! Then you can bring in new users by 
+ If you want to participate in the referral program, you need to have a life-time member account, first! Then you can bring in new users by
 
  * running your own faucet and actually register new accounts (will give you 80% of all the fees of those minus a fraction that you decide to give to affiliates (the referrers)
  * referring people to a hosted wallet that offers you a cut of the fees as an affiliate.
@@ -47,7 +47,9 @@ What to do?
 
       https://<url>/?r=<your-account>
 
- with ``<your-account>`` being the name of your LocalCoin Lite-Time Member account.
+ with ``<url>`` being LocalCoin wallet domain ``localcoin.is`` or the name of our your own domain name like ``yourdomain.com`` where you run your own LocalCoin wallet UI.
+ and ``<your-account>`` being the name of your LocalCoin Lite-Time Member account.
+
 
  .. note:: If you want link to pages with in the wallet, e.g. a particular decentralized market, you need to have the ``?r=`` parameter **before** the ``#``, e.g.::
 
@@ -66,7 +68,7 @@ Terms & Conditions
 
 Claiming Referral Bonus and Cashback
 -------------------------------------
- If you have a life time member account and 
+ If you have a life time member account and
 
  * already paid some fees, or
  * have referred people that paid some fees,
@@ -77,4 +79,3 @@ you can withdraw them in the "Vesting" tab of your account.
 ------------------
 
 |
-
