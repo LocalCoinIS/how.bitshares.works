@@ -47,7 +47,7 @@ What to do?
 
       https://<url>/?r=<your-account>
 
- * with ``<url>`` being LocalCoin wallet domain ``localcoin.is`` or the name of our your own domain name like ``yourdomain.com`` where you run your own LocalCoin wallet UI.
+ * with ``<url>`` being LocalCoin wallet domain ``wallet.localcoin.is`` or the name of our your own domain name like ``yourdomain.com`` where you run your own LocalCoin wallet UI.
  * and ``<your-account>`` being the name of your LocalCoin Lite-Time Member account.
 
 
