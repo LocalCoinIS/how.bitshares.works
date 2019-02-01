@@ -19,7 +19,7 @@ The purpose of this site is to provide in-depth documentation about the LocalCoi
 
 
 
-- `LocalCoin Whitepaper <https://how.localcoin.is/en/latest/_images/LocalCoinBlockchain.pdf>`_
+- `LocalCoin Whitepaper <https://localcoin.is/downloads/LocalCoinBlockchain.pdf>`_
 - `LocalCoin Blockchain Foundation Announcements <http://www.localcoin.is/>`_
 
 
