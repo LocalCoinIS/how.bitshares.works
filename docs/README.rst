@@ -7,7 +7,7 @@ LocalCoin Documentation
         :alt: Graphene Welcome
         :width: 80px
         :align: center
-		
+
 ----------
 
 .. centered:: **Welcome to the LocalCoin Documentation**
@@ -19,9 +19,8 @@ The purpose of this site is to provide in-depth documentation about the LocalCoi
 
 
 
-- `LocalCoin Whitepaper <http://www.localcoin.foundation/papers/LocalCoinBlockchain.pdf>`_
-- `LocalCoin Blockchain Foundation Announcements <http://www.localcoin.foundation/>`_
+- `LocalCoin Whitepaper <http://how.localcoin.is/downloads/LocalCoinBlockchain.pdf>`_
+- `LocalCoin Blockchain Foundation Announcements <http://www.localcoin.is/>`_
 
 
 ----------
-
