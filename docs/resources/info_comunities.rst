@@ -71,9 +71,7 @@ LocalCoin UI Wallet
 Localcoin Block Exploer
 =============================
 
-- `Cryptofresh <https://www.cryptofresh.com/>`_
-- `Open Explorer <http://open-explorer.io/>`_
-- `llc.ai <https://llc.ai/>`_
+- `LLC.is <http://LLC.is/>`_
 
 Blockchain Activity
 ========================
