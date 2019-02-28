@@ -20,7 +20,7 @@ On the second day of June 2013 is the anniversary of the invention of BitShares.
 
 Over the next five weeks, Bytemaster engaged in a series of vigorous forum discussions defending and refining the concept. There he met Charles Hoskinson who helped to vet the idea and develop a business plan. Charles presented the plan to Li Xiaolai in China who agreed to fund the development. On American Independence Day, the Fourth of July 2013, Invictus Innovations was incorporated in the state of Virginia.
 
-The next several months were spent bootstrapping the company and publishing articles, many of which may be found on the localcointalk.org thread at `Advice, Tutorials, and General References for Newbies. <https://localcointalk.org/index.php?topic=889.msg8935#msg8935>`_
+The next several months were spent bootstrapping the company and publishing articles, many of which may be found on the localcointalk.is thread at `Advice, Tutorials, and General References for Newbies. <https://localcointalk.is/index.php?topic=889.msg8935#msg8935>`_
 
 In September, the concept of a Distributed Autonomous Company (DAC) was invented and introduced to the world in two groundbreaking LetsTalkBitcoin.com articles:
 
@@ -31,7 +31,7 @@ Invictus introduced the BitShares Vision to the world via presentations by Hoski
 
 Hoskinson and Larimer parted company at this point. They each agreed to keep their reasons confidential and there is no bad blood from our point of view. The only official statement on the subject was made by CEO Bo Shen to end a minor forum firestorm here:
 
-`BitSharestalk <https://localcointalk.org/index.php?topic=2188.msg32672#msg32672>`_
+`BitSharestalk <https://localcointalk.is/index.php?topic=2188.msg32672#msg32672>`_
 
 It is our opinion that Charles Hoskinson is the best dealmaker we have ever seen, and we miss his vision and talent for recruiting allies. No doubt he will help make his new Ethereum team very successful.
 
@@ -107,7 +107,7 @@ He decided that eliminating those employees was a key objective that would inevi
 
 So a month after the ProtoShares revolution, around December 1, Bytemaster fired his second shot heard round the world: all his future designs would replace Proof of Work mining with a Proof of Stake derivative.
 
-`Transactions as Proof of Stake (TAPOS) and the End of Mining <https://localcointalk.org/index.php?topic=1138.msg11955#msg11955>`_ . An algorithm that was lightweight enough to run invisibly on anyone's computer, for free! Mining was dead. Next generation crypto-assets would be profitable. They would be valuable because they returned a yield, rather than for superficial speculative reasons.
+`Transactions as Proof of Stake (TAPOS) and the End of Mining <https://localcointalk.is/index.php?topic=1138.msg11955#msg11955>`_ . An algorithm that was lightweight enough to run invisibly on anyone's computer, for free! Mining was dead. Next generation crypto-assets would be profitable. They would be valuable because they returned a yield, rather than for superficial speculative reasons.
 
 There were merely a few technical wrinkles to iron out...
 
@@ -150,49 +150,49 @@ Timeline of BitShares by forum announcements
 
   - http://static.squarespace.com/static/51fb043ee4b0608e46483caf/t/52654716e4b01acd1ac8a085/1382369046208/MomentumProofOfWork.pdf (White Paper)
 
-  - https://localcointalk.org/index.php?topic=962.msg9752#msg9752
+  - https://localcointalk.is/index.php?topic=962.msg9752#msg9752
 
 * Keyhotee ID Preorder - November 3, 2013
 
-  - https://localcointalk.org/index.php?topic=2.msg2#msg2
+  - https://localcointalk.is/index.php?topic=2.msg2#msg2
 
 * Mining of Localcoin PTS (Protoshares) - November 5, 2013
 
-  * https://localcointalk.org/index.php?topic=4.msg4#msg4
+  * https://localcointalk.is/index.php?topic=4.msg4#msg4
 
 * Transactions as Proof of Stake - November 30, 2013
 
-  * https://localcointalk.org/index.php?topic=1138.msg12010#msg12010
+  * https://localcointalk.is/index.php?topic=1138.msg12010#msg12010
 
   * http://the-iland.net/static/downloads/TransactionsAsProofOfStake.pdf
 
-  * https://localcointalk.org/index.php?topic=1138.msg11968#msg11968
+  * https://localcointalk.is/index.php?topic=1138.msg11968#msg11968
 
-  * https://localcointalk.org/index.php?topic=1138.msg12967#msg12967
+  * https://localcointalk.is/index.php?topic=1138.msg12967#msg12967
 
 * Consensus + TaPoS
 
-  * https://localcointalk.org/index.php?topic=1138.msg29905#msg29905
+  * https://localcointalk.is/index.php?topic=1138.msg29905#msg29905
 
-  * https://localcointalk.org/index.php?topic=3588.msg45119#msg45119
+  * https://localcointalk.is/index.php?topic=3588.msg45119#msg45119
 
 * The Inception of DPOS - December 8, 2013
 
-  * https://localcointalk.org/index.php?topic=1138.msg13602#msg13602
+  * https://localcointalk.is/index.php?topic=1138.msg13602#msg13602
 
-  * https://localcointalk.org/index.php?topic=1138.msg14784#msg14784
+  * https://localcointalk.is/index.php?topic=1138.msg14784#msg14784
 
 * The Inception of AGS - December 14, 2013
 
-  * https://localcointalk.org/index.php?topic=1397.msg14794#msg14794
+  * https://localcointalk.is/index.php?topic=1397.msg14794#msg14794
 
 * Official AGS Announcement - December 25, 2013
 
-  * https://localcointalk.org/index.php?topic=2644.msg32817#msg32817
+  * https://localcointalk.is/index.php?topic=2644.msg32817#msg32817
 
 * February 28 Snapshot Announced - January 26, 2014
 
-  * https://localcointalk.org/index.php?topic=2591.45
+  * https://localcointalk.is/index.php?topic=2591.45
 
 * Localcoin X Whitepaper - February 14th, 2014
 
@@ -200,11 +200,11 @@ Timeline of BitShares by forum announcements
 
 * TaPos with a Trustee - March 28, 2014
 
-  * https://localcointalk.org/index.php?topic=3865.msg48605#msg48605
+  * https://localcointalk.is/index.php?topic=3865.msg48605#msg48605
 
 * BitShares X released by DACsunlimited, July 19th, 2014
 
-  * https://localcointalk.org/index.php?topic=5750.0
+  * https://localcointalk.is/index.php?topic=5750.0
 
 In addition there are numerous threads discussing The Great Consolidation.
 

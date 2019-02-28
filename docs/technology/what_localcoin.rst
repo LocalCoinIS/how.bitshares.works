@@ -42,7 +42,7 @@ Distributed Autonomous Companies (DAC) run without any human involvement under t
 Community
 ===============
 
-The LocalCoin community is a global network of people who all share the same goal of creating and participating in various Distributed Autonomous Companies. The community mainly revolves around the LocalCoin Team and third parties who use Graphene (the toolkit that makes LocalCoin possible) to create their own Distributed Autonomous Companies. The main discussions in the LocalCoin community takes place openly at `LocalCointalk.org <http://localcointalk.org>`_.
+The LocalCoin community is a global network of people who all share the same goal of creating and participating in various Distributed Autonomous Companies. The community mainly revolves around the LocalCoin Team and third parties who use Graphene (the toolkit that makes LocalCoin possible) to create their own Distributed Autonomous Companies. The main discussions in the LocalCoin community takes place openly at `localcointalk.is <http://localcointalk.is>`_.
 
 
 |

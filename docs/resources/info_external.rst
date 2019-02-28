@@ -19,7 +19,7 @@ Articles
 ===============
 
 
-* `Market Pegged Asset (MPA) backing collateral layers <https://localcointalk.io/llctalk-dev/@customminer/market-pegged-asset-mpa-backing-collateral-layers>`_ : by @customminer
+* `Market Pegged Asset (MPA) backing collateral layers <https://localcointalk.is/llctalk-dev/@customminer/market-pegged-asset-mpa-backing-collateral-layers>`_ : by @customminer
 
 * `LOCALCOIN HELP DESK & SUPPORT RESOURCES - How to get answers fast! OpenLedger included! <https://steemit.com/localcoin/@intelliguy/localcoin-help-desk-and-support-resources-how-to-get-answers-fast-openledger-included>`_ : by intelliguy
 
