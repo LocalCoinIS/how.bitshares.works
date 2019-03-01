@@ -21,7 +21,6 @@ Articles
 
 * `Market Pegged Asset (MPA) backing collateral layers <https://localcointalk.is/llctalk-dev/@customminer/market-pegged-asset-mpa-backing-collateral-layers>`_ : by @customminer
 
-* `LOCALCOIN HELP DESK & SUPPORT RESOURCES - How to get answers fast! OpenLedger included! <https://steemit.com/localcoin/@intelliguy/localcoin-help-desk-and-support-resources-how-to-get-answers-fast-openledger-included>`_ : by intelliguy
 
 * `LocalCoin Enterprise Alliance - Part 1 - Alice's Hero Hub <https://steemit.com/localcoin/@stan/localcoin-enterprise-alliance-part-1-alice-s-hero-hub>`_ : by @stan
 
