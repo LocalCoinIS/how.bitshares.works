@@ -11,7 +11,6 @@ Communities
 
 * `LocalCoin Community <https://t.me/localcoin_community>`_
 * `Forum - LocalCoinTalk`_
-* `Telegram - LocalCoin Traders`_
 * `Telegram - LocalCoin English`_
 * `Telegram - LocalCoin Russian`_
 * `Telegram - LocalCoin Chinese`_
@@ -22,7 +21,6 @@ Communities
 * `LocalCoin on Steemit`_
 * `Twitter`_
 * `Reddit`_
-* `localcointalk.is`_
 * (*will be added more*)
 
 .. _Forum - LocalCoinTalk: https://localcointalk.is/
@@ -36,7 +34,6 @@ Communities
 .. _LocalCoin on Steemit: https://steemit.com/@localcoin
 .. _Twitter: https://twitter.com/localcoinis
 .. _Reddit: https://reddit.com/user/LocalCoinIS
-.. _localcointalk.is: https://localcointalk.is/forums
 
 
 Beyond Bitcoin - Localcoin
