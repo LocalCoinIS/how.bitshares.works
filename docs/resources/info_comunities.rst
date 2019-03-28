@@ -41,7 +41,6 @@ Beyond Bitcoin - Localcoin
 
 
 - `LocalCoin Discord Hangouts <https://discord.gg/vzxSzYN>`_
-   - `LocalCoin Hangout: Discord Tips <https://steemit.com/localcoin/@ash/localcoin-hangout-discord-tips>`_
 
 
 |

@@ -6,14 +6,6 @@ Resources External
 From steemit
 =================
 
-* `Community News <https://steemit.com/@officialfuzzy>`_ - by @officialfuzzy
-* `Localcoin - State of the Network <https://steemit.com/@steempower>`_ - by @steempower
-* `Состояние сети Localcoin <https://steemit.com/@blockchained>`_ - by @blockchained
-* `LocalCoin Hangout Recordings <https://steemit.com/@ash>`_ - by @ash
-* `Beyond Bitcoin | Localcoin Talk | <https://steemit.com/@africa>`_ - by @africa
-* `Bit20 - The cryptocurrency index fund <https://steemit.com/@blocktivity>`_ - by @blocktivity
-* `Localcoin DEX Thailand- Blog <https://steemit.com/@apasia.tech>`_ - by @apasia.tech
-* `Localcoin GUI Release... <https://steemit.com/@billbutler>`_ - by @billbutler
 
 Articles
 ===============
