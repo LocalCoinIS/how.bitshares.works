@@ -21,6 +21,7 @@ Communities
 * `LocalCoin on Steemit`_
 * `Twitter`_
 * `Reddit`_
+* `BitcoinTalk`_
 * (*will be added more*)
 
 .. _Forum - LocalCoinTalk: https://localcointalk.is/
@@ -34,6 +35,7 @@ Communities
 .. _LocalCoin on Steemit: https://steemit.com/@localcoin
 .. _Twitter: https://twitter.com/localcoinis
 .. _Reddit: https://reddit.com/user/LocalCoinIS
+.. _BitcoinTalk: https://bitcointalk.org/index.php?topic=5125670
 
 
 Beyond Bitcoin - Localcoin
@@ -54,10 +56,7 @@ LocalCoin Blockchain Foundation
 =======================================
 
 - `Localcoin Foundation <http://www.localcoin.is/>`_
-- `Localcoin Foundation : Worker <http://www.localcoin.is/worker>`_
-- `Localcoin Foundation : Accounting <http://www.localcoin.is/accounting>`_
-- `Localcoin Foundation : Public Mailing Lists <http://lists.localcoin.is/listinfo>`_
-- `Localcoin Foundation : Spokesperson <http://www.localcoin.is/spokesperson>`_
+- `Localcoin Foundation : Workers <https://wallet.localcoin.is/account/localcoin-airdrop/voting>`_
 
 LocalCoin UI Wallet
 ====================
