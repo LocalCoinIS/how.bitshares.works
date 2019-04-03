@@ -44,8 +44,6 @@ Beyond Bitcoin - Localcoin
 
 - `LocalCoin Discord Hangouts <https://discord.gg/vzxSzYN>`_
 
-|
-
 ************************
 LocalCoin Blockchain
 ************************
