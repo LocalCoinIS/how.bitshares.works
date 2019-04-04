@@ -146,9 +146,7 @@ Timeline of BitShares by forum announcements
 
   - https://bitcointalk.org/index.php?topic=313479.0
 
-* Consensus + TaPoS
-
-* Localcoin Whitepaper - February 14th, 2014
+* Localcoin Whitepaper - February 14th, 2018
 
   * https://localcoin.is/downloads/LocalCoinBlockchain.pdf
 
