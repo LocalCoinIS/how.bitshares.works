@@ -98,7 +98,7 @@ Once every *maintenance interval*, all votes are recounted and the corresponding
 Is there an anti-vote?
 ----------------------
 
-Not any more. After discovering `emski's attack <https://localcointalk.is/index.php?topic=5164.msg67657#msg67657>`_ the developers decided to use **Approval Voting**.
+Not any more. The developers decided to use **Approval Voting**.
 
 Disincentives for Attacks
 ==========================
@@ -116,7 +116,7 @@ This is totally in the hands of the shareholders. If the majority votes for 50 w
 DPOS Infographic
 =====================
 
-.. image:: DPOS-infographic.jpg 
+.. image:: DPOS-infographic.jpg
         :alt: Green is Income, Yellow is Profit, Blue is Cost
         :width: 660px
         :align: center
@@ -124,14 +124,5 @@ DPOS Infographic
 Sources and Discussions
 =========================
 
-* https://localcointalk.is/index.php?topic=5164.msg67657#msg67657
-* https://localcointalk.is/index.php?topic=5205.0
-* https://github.com/localcoinis/localcoin_toolkit/wiki/Delegated-Proof-of-Stake
-* https://localcointalk.is/index.php?topic=4984.0
-* https://localcointalk.is/index.php?topic=4927.0
-* https://localcointalk.is/index.php?topic=4869.0
-* https://localcointalk.is/index.php?topic=4853.0
-* https://localcointalk.is/index.php?topic=4836.0
-* https://localcointalk.is/index.php?topic=4714.0
 
 |
