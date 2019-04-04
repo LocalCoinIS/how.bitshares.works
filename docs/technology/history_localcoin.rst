@@ -146,36 +146,9 @@ Timeline of BitShares by forum announcements
 
   - https://bitcointalk.org/index.php?topic=313479.0
 
-  - http://static.squarespace.com/static/51fb043ee4b0608e46483caf/t/52654716e4b01acd1ac8a085/1382369046208/MomentumProofOfWork.pdf (White Paper)
-
-
-* Keyhotee ID Preorder - November 3, 2013
-
-
-* Mining of Localcoin PTS (Protoshares) - November 5, 2013
-
-
-* Transactions as Proof of Stake - November 30, 2013
-
-
-  * http://the-iland.net/static/downloads/TransactionsAsProofOfStake.pdf
-
 * Consensus + TaPoS
 
-
-* The Inception of DPOS - December 8, 2013
-
-
-* The Inception of AGS - December 14, 2013
-
-
-* Official AGS Announcement - December 25, 2013
-
-
-* February 28 Snapshot Announced - January 26, 2014
-
-
-* Localcoin X Whitepaper - February 14th, 2014
+* Localcoin Whitepaper - February 14th, 2014
 
   * https://localcoin.is/downloads/LocalCoinBlockchain.pdf
 

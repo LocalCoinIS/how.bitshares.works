@@ -18,15 +18,6 @@ which companies can run without any human management and under the control of an
 
 LocalCoin does for business what bitcoin did for money by utilizing distributed consensus technology to create companies that are inherently global, transparent, trustworthy, efficient and most importantly profitable.
 
-LocalCoin has went through many changes and has done its best to stay on top of blockchain technology. Towards the end of 2014 some of the DACs were merged and the X was dropped from "LocalCoin X" to become simply LocalCoin (LLC).
-
-
-Background
-===========
-
-LocalCoin X was first introduced in a White Paper titled "A Peer-to-Peer Polymorphic Digital Asset Exchange" by Daniel Larimer, Charles Hoskinson, and Stan Larimer. Shortly after authoring the White Paper, the project was founded by Daniel Larimer of Invictus Innovations after receiving funding from Chinese venture capital firm BitFund.PE. Charles Hoskinson, founder of the Bitcoin Education Project, was a co-founder of the original project but has since left the team. The LocalCoin X project received a lot of attention in August 2013 when it was covered by CoinDesk and subsequently announced to the the BitcoinTalk forums on August 22nd 2013 as a project announcement. The project generated a good amount of buzz around the proposal, though the original scope and timelines have since modified.
-
-
 Consensus Technology
 =====================
 
