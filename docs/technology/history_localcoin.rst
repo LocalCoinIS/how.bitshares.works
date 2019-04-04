@@ -20,7 +20,7 @@ On the second day of June 2013 is the anniversary of the invention of BitShares.
 
 Over the next five weeks, Bytemaster engaged in a series of vigorous forum discussions defending and refining the concept. There he met Charles Hoskinson who helped to vet the idea and develop a business plan. Charles presented the plan to Li Xiaolai in China who agreed to fund the development. On American Independence Day, the Fourth of July 2013, Invictus Innovations was incorporated in the state of Virginia.
 
-The next several months were spent bootstrapping the company and publishing articles, many of which may be found on the localcointalk.is thread at `Advice, Tutorials, and General References for Newbies. <https://localcointalk.is/index.php?topic=889.msg8935#msg8935>`_
+The next several months were spent bootstrapping the company and publishing articles, many of which may be found on the localtalk.is thread at `Advice, Tutorials, and General References for Newbies. <https://localtalk.is/index.php?topic=889.msg8935#msg8935>`_
 
 In September, the concept of a Distributed Autonomous Company (DAC) was invented and introduced to the world in two groundbreaking LetsTalkBitcoin.com articles:
 

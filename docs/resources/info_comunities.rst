@@ -24,7 +24,7 @@ Communities
 * `BitcoinTalk`_
 * (*will be added more*)
 
-.. _Forum - LocalCoinTalk: https://localcointalk.is/
+.. _Forum - LocalCoinTalk: https://localtalk.is/
 .. _Telegram - LocalCoin English: https://t.me/LocalCoinIS
 .. _Telegram - LocalCoin Russian: https://t.me/LocalCoinRU
 .. _Telegram - LocalCoin Chinese: https://t.me/LocalCoinCN
