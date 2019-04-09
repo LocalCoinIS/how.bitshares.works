@@ -23,7 +23,7 @@
     llc_holders/llc_governance
     llc_holders/community_members
     llc_holders/dex
-    llc_holders/investor_guide  
+    llc_holders/investor_guide
 
 -------
 
@@ -48,6 +48,7 @@
 
     resources/info_comunities
     resources/info_external
+    resources/faq
 
 
 
