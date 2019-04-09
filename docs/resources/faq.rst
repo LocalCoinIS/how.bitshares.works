@@ -33,3 +33,9 @@ LLC can be purchased via ICO website `applications Win/Mac/Linux <https://localc
 6. I followed `twitter.com/LocalCoinIS <https://twitter.com/LocalCoinIS>`_, liked and retweeted your `tweet <https://twitter.com/LocalCoinIS/status/1113224091690065920>`_ but `@LocalCoinAirdropBot <https://t.me/LocalCoinAirdropBot>`_ shows that the tweeter task hasn't been accomplished with cross on it?
 =================
 You just need to wait, `@LocalCoinAirdropBot <https://t.me/LocalCoinAirdropBot>`_ checks Twitter tasks every 6 hours.
+
+
+5. My antivirus block your apps, what do i do?
+=================
+It happens not only to LocalCoin app, your antivirus will block any applications which is trying to connect to the internet.
+You need to allow LocalCoin app to use your PC's internet connection, otherwise you will not be able to use LocalCoin blockchain.
