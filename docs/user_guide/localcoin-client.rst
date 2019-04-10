@@ -24,7 +24,7 @@ Download client files and install LocalCoin Wallet to your computer.
 
 **> Note: This download does not mean that you will have a Local wallet.**
 
-- `Download the Official Light Client <http://localcoin.is/download/>`_
+- `Download the Official Light Client <https://localcoin.is/#download>`_
 - `LocalCoin-UI – Latest Release <https://github.com/localcoinis/localcoin-ui/releases>`_
 
 **LocalCoin-UI**:

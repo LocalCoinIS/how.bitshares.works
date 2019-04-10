@@ -35,7 +35,7 @@ LLC can be purchased via ICO website `applications Win/Mac/Linux <https://localc
 You just need to wait, `@LocalCoinAirdropBot <https://t.me/LocalCoinAirdropBot>`_ checks Twitter tasks every 6 hours.
 
 
-5. My antivirus block your apps, what do i do?
+5. My antivirus blocks your apps, what do i do?
 =================
 It happens not only to LocalCoin app, your antivirus will block any applications which is trying to connect to the internet.
 You need to allow LocalCoin app to use your PC's internet connection, otherwise you will not be able to use LocalCoin blockchain.
