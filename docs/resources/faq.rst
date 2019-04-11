@@ -41,8 +41,7 @@ It happens not only to LocalCoin app, your antivirus will block any applications
 You need to allow LocalCoin app to use your PC's internet connection, otherwise you will not be able to use LocalCoin blockchain.
 
 
-8. I got message from `@LocalCoinAirdropBot <https://t.me/LocalCoinAirdropBot>`_: "A user you invited just completed the registration process. You got +10 LLC!"
-But no balance is credited to me, why?
+8. I got message from `@LocalCoinAirdropBot <https://t.me/LocalCoinAirdropBot>`_: "A user you invited just completed the registration process. You got +10 LLC!" but no balance is credited to me, why?
 =================
 `@LocalCoinAirdropBot <https://t.me/LocalCoinAirdropBot>`_ refreshed every 6 hours, you just need to wait
 
