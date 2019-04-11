@@ -30,7 +30,7 @@ LLC will be credited into your LocalCoin wallet at the day when Airdrop is finis
 LLC can be purchased via ICO website `applications Win/Mac/Linux <https://localcoin.is>`_, directly from your `LocalCoin web-wallet <https://wallet.localcoin.is/market/LLC_USD>`_ or from our `applications for Win/Mac/Linux <https://localcoin.is/#download>`_
 
 
-6. I followed `twitter.com/LocalCoinIS <https://twitter.com/LocalCoinIS>`_, liked and retweeted your `tweet <https://twitter.com/LocalCoinIS/status/1113224091690065920>`_ but `@LocalCoinAirdropBot <https://t.me/LocalCoinAirdropBot>`_ shows that the tweeter task hasn't been accomplished with cross on it?
+6. I followed `twitter.com/LocalCoinIS <https://twitter.com/LocalCoinIS>`_, liked and retweeted your `tweet <https://twitter.com/LocalCoinIS/status/1113224091690065920>`_ but `@LocalCoinAirdropBot <https://t.me/LocalCoinAirdropBot>`_ shows that the twitter task hasn't been accomplished with cross on it?
 =================
 You just need to wait, `@LocalCoinAirdropBot <https://t.me/LocalCoinAirdropBot>`_ checks Twitter tasks every 6 hours.
 
