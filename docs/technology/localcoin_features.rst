@@ -61,7 +61,7 @@ Recurring & Scheduled Payments
 
   - Flexible withdrawal permissions
 
-LocalCoin is the first smart contract platform with built-in support for recurring payments and subscription payments. This feature allows users to authorize third parties to make withdrawals from their accounts within certain limits. This is a convenient way to “set it and forget it” for monthly bills and subscriptions.   _
+LocalCoin is the first smart contract platform with built-in support for recurring payments and subscription payments. This feature allows users to authorize third parties to make withdrawals from their accounts within certain limits. This is a convenient way to “set it and forget it” for monthly bills and subscriptions. 
 
 
 Referral Rewards Program
