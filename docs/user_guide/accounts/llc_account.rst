@@ -31,7 +31,7 @@ If you create an account at one of LocalCoin partners, the account name will be 
 Identifier
 -------------
 
-When you create a LocalCoin account, LocalCoin registers the account name to the blockchain and also assigns an incrementing identifier (account id) during the registration. One way to find your account id is to go to a [cryptofresh](https://www.cryptofresh.com/) and search your account name. You will find your account id under your account name.
+When you create a LocalCoin account, LocalCoin registers the account name to the blockchain and also assigns an incrementing identifier (account id) during the registration. One way to find your account id is to go to a [LLC.is](https://www.LLC.is/) and search your account name. You will find your account id under your account name.
 
 The identifier comes with many advantages: Besides improved scalability, we have separated the identity from the transaction authorizing signature. In practice, owning an account name is autonomous from being able to spend its funds. Furthermore, both rights (we call them permissions) can split among an arbitrary complex relation of people (we call them authorities) using weights and required thresholds.
 
