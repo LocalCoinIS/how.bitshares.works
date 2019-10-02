@@ -139,21 +139,7 @@ You use `ADDRESS` and `MEMO` to deposit funds. The below images show a Deposit a
         :align: center
 
 
-**(Example 2) Deposit EOS by using a Gateway service**
-
-You use `ADDRESS` to deposit funds. The below images show a Deposit and a Deposit(Beta) forms.
-
-.. image:: ../images/deposit-eos-legacy.png
-        :alt: localcoin
-        :width: 650px
-        :align: center
-
-.. image:: ../images/deposit-eos-2.png
-        :alt: localcoin
-        :width: 300px
-        :align: center
-
-**(Example 3) Deposit LLC**
+**(Example 2) Deposit LLC**
 
 You use LocalCoin Account Name as `ADDRESS` to deposit funds. The below image shows a Deposit(Beta) form.
 
