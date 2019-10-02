@@ -14,15 +14,15 @@ Fund your Account
 
 Two Options to Fund your Account
 -----------------------------------
- 
-- **Send (Transfer)**: This is for between LocalCoin account holders to send funds. On the LocalCoin Blockchain , people never need to deal with *addresses* or *public keys*. LocalCoin account holders can use their *account names* for communication. 
+
+- **Send (Transfer)**: This is for between LocalCoin account holders to send funds. On the LocalCoin Blockchain , people never need to deal with *addresses* or *public keys*. LocalCoin account holders can use their *account names* for communication.
 - **Deposits**: LocalCoin account holders can use one of our partners to move over existing funds into your LocalCoin account.
 
 
 Send (Transfer)
 ========================
 
-Currently, there are two forms to send funds. One is **Send** on the top menu. Another one is **Send (legacy)** on the side menu. Both work the same. 
+Currently, there are two forms to send funds. One is **Send** on the top menu. Another one is **Send (legacy)** on the side menu. Both work the same.
 
 First, we want to list what information on the Send form. Next, you can check each item in the Send form images.
 
@@ -63,36 +63,36 @@ Instead, all that is needed for transfers is:
 
 * source account name: From
 * destination account name: To
-* funds (amount and asset): Quantity 
+* funds (amount and asset): Quantity
 * asset/token type
 * memo (optional)
 
 A transfer may contain a memo with arbitrary text.
 
 .. note:: The ``memo`` is **encrypted** by default can only be decrypted by the participants of the transfer! The transfer fee depends on the length of the memo!
-   
+
 .. image:: ../images/Send-1.png
-        :alt: localcoin 
+        :alt: localcoin
         :width: 650px
-        :align: center	
+        :align: center
 
 > After click [SEND], you need to login (if it's not yet) and [CONFIRM] the Transaction.
 
 **Form: Send - Transfer details (legacy form)**
 
 .. image:: ../images/send-transfer2.png
-        :alt: localcoin 
+        :alt: localcoin
         :width: 650px
-        :align: center	
-		
+        :align: center
+
 
 |
 
 Deposit
 ============
 
-Currently, there are two forms to deposit funds. One is **Deposit** and another one is **Deposit (Beta)**. Both locate on the side menu. 
- 
+Currently, there are two forms to deposit funds. One is **Deposit** and another one is **Deposit (Beta)**. Both locate on the side menu.
+
 LocalCoin has partners to provide Transfer (i.g. Gateway/Bridge) services which you can choose from. Each Transfer service has own instruction and available coins to handle. When you select a Transfer Service, please follow the instruction. In the next section, we will show you several examples and patterns to compare the deposit forms.
 
 .. note:: On the LocalCoin blockchain, people never need to deal with *addresses* or *public keys* but can instead use account names. Your account name becomes the *email address* for your funds.
@@ -119,49 +119,49 @@ Deposit Forms Items and Descriptions
 | 7 | LocalCoin Account Name  | This would be your LocalCoin Account name                                            |
 +---+-------------------------+--------------------------------------------------------------------------------------+
 
-  If you cannot select an Asset on the Deposit(Beta) form, try to login to your wallet first. 
+  If you cannot select an Asset on the Deposit(Beta) form, try to login to your wallet first.
 
 Examples
 ^^^^^^^^^
-  
-**(Example 1) Deposit STEEM by using a Gateway service**
+
+**(Example 1) Deposit Monero(XMR) by using a Gateway service**
 
 You use `ADDRESS` and `MEMO` to deposit funds. The below images show a Deposit and a Deposit(Beta) forms.
 
-.. image:: ../images/deposit-steem-legacy.png
-        :alt: localcoin 
+.. image:: ../images/deposit-monero-legacy.png
+        :alt: localcoin
         :width: 650px
-        :align: center	
-		
-.. image:: ../images/deposit-steem-2.png
-        :alt: localcoin 
+        :align: center
+
+.. image:: ../images/deposit-monero-2.png
+        :alt: localcoin
         :width: 350px
-        :align: center	
-		
-		
+        :align: center
+
+
 **(Example 2) Deposit EOS by using a Gateway service**
 
 You use `ADDRESS` to deposit funds. The below images show a Deposit and a Deposit(Beta) forms.
 
 .. image:: ../images/deposit-eos-legacy.png
-        :alt: localcoin 
+        :alt: localcoin
         :width: 650px
-        :align: center	
-		
+        :align: center
+
 .. image:: ../images/deposit-eos-2.png
-        :alt: localcoin 
+        :alt: localcoin
         :width: 300px
-        :align: center	
-		
+        :align: center
+
 **(Example 3) Deposit LLC**
 
 You use LocalCoin Account Name as `ADDRESS` to deposit funds. The below image shows a Deposit(Beta) form.
 
 .. image:: ../images/deposit-llc.png
-        :alt: localcoin 
+        :alt: localcoin
         :width: 300px
         :align: center
-		
+
 ---------------
 
 .. _transactions:
@@ -169,7 +169,7 @@ You use LocalCoin Account Name as `ADDRESS` to deposit funds. The below image sh
 
 Transactions
 ========================
-   
+
 .. _proposed-transactions:
 
 Proposed Transactions
@@ -215,7 +215,7 @@ alone.
 
 .. _blind signatures: http://blog.oleganza.com/post/77474860538/blind-signatures
 
-  
+
 |
 
 |
