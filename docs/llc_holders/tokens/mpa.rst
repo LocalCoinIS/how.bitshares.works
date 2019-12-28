@@ -10,7 +10,7 @@ is capable of maintaining price parity with a globally adopted currency
 resistant commerce. This can be achieved by LocalCoin' market pegged
 assets (MPA), a new type of freely traded digital asset whose value is
 meant to track the value of a conventional underlying asset by means of
-contracts for difference (CFD). 
+contracts for difference (CFD).
 
 Instead of creating a UIA where the full control over supply is in the
 hands of the issuer, we can also create a **Market Pegged Asset** (MPA)
@@ -62,11 +62,11 @@ BitAssets can be created and owned by anyone on the network. However, those that
 
 *SmartCoins*. Among these are:
 
-* (Bit)USD
-* (Bit)CNY
-* (Bit)EUR
-* (Bit)GOLD
-* (Bit)Silver
+* (Local)USD
+* (Local)CNY
+* (Local)EUR
+* (Local)GOLD
+* (Local)Silver
 
 Balances in these assets are labeled with `USD`, `CNY`, etc., because represent the same value as their underly.
 
